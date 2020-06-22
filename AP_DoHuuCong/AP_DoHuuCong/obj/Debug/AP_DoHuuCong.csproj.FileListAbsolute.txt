@@ -1,0 +1,2 @@
+C:\Users\Acer\source\repos\AP_DoHuuCong\AP_DoHuuCong\obj\Debug\AP_DoHuuCong.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\AP_DoHuuCong\AP_DoHuuCong\obj\Debug\AP_DoHuuCong.csproj.CoreCompileInputs.cache
